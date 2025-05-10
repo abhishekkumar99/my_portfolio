@@ -158,11 +158,9 @@ export const personalData = {
   phone: '+91-8016034179',
   address: 'Sukanto Pally, Asasnol(WB), India - 713302',
   github: 'https://github.com/abhishekkumar99',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
+  facebook: 'https://www.facebook.com/bhishek_kumar'/',
   linkedIn: 'https://www.linkedin.com/in/abhishek-kumar-b79890180/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
+  twitter: 'https://twitter.com/abhishek_kumar',
   devUsername: "abhishek_kumar_66cbb493de",
   resume: "...",
 };
