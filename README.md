@@ -5,7 +5,7 @@
 
 ---
 
-# [STOP STATE SPONSERED TERRORISM](https://github.com/abhishekkumar99/my_portfolio/blob/main/FotoJet-93.avif)
+# [STOP STATE SPONSERED TERRORISM](https://raw.githubusercontent.com/abhishekkumar99/my_portfolio/refs/heads/main/FotoJet-93.avif)
 # [PKMKB]
 
 ---
